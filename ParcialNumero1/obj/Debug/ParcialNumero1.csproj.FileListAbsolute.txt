@@ -1,0 +1,16 @@
+C:\Users\recin\Desktop\CARPETAS DE TRABAJO\CICLO III 2021\PROGRAMACION_1\ParcialNumero1\obj\Debug\ParcialNumero1.csprojAssemblyReference.cache
+C:\Users\recin\Desktop\CARPETAS DE TRABAJO\CICLO III 2021\PROGRAMACION_1\ParcialNumero1\obj\Debug\ParcialNumero1.Form1.resources
+C:\Users\recin\Desktop\CARPETAS DE TRABAJO\CICLO III 2021\PROGRAMACION_1\ParcialNumero1\obj\Debug\ParcialNumero1.Properties.Resources.resources
+C:\Users\recin\Desktop\CARPETAS DE TRABAJO\CICLO III 2021\PROGRAMACION_1\ParcialNumero1\obj\Debug\ParcialNumero1.csproj.GenerateResource.cache
+C:\Users\recin\Desktop\CARPETAS DE TRABAJO\CICLO III 2021\PROGRAMACION_1\ParcialNumero1\obj\Debug\ParcialNumero1.csproj.CoreCompileInputs.cache
+C:\Users\recin\Desktop\CARPETAS DE TRABAJO\CICLO III 2021\PROGRAMACION_1\ParcialNumero1\obj\Debug\ParcialNumero1.VISTA.frmUsuarios.resources
+C:\Users\recin\Desktop\CARPETAS DE TRABAJO\CICLO III 2021\PROGRAMACION_1\ParcialNumero1\bin\Debug\ParcialNumero1.exe.config
+C:\Users\recin\Desktop\CARPETAS DE TRABAJO\CICLO III 2021\PROGRAMACION_1\ParcialNumero1\bin\Debug\ParcialNumero1.exe
+C:\Users\recin\Desktop\CARPETAS DE TRABAJO\CICLO III 2021\PROGRAMACION_1\ParcialNumero1\bin\Debug\ParcialNumero1.pdb
+C:\Users\recin\Desktop\CARPETAS DE TRABAJO\CICLO III 2021\PROGRAMACION_1\ParcialNumero1\bin\Debug\EntityFramework.dll
+C:\Users\recin\Desktop\CARPETAS DE TRABAJO\CICLO III 2021\PROGRAMACION_1\ParcialNumero1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\recin\Desktop\CARPETAS DE TRABAJO\CICLO III 2021\PROGRAMACION_1\ParcialNumero1\bin\Debug\EntityFramework.xml
+C:\Users\recin\Desktop\CARPETAS DE TRABAJO\CICLO III 2021\PROGRAMACION_1\ParcialNumero1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\recin\Desktop\CARPETAS DE TRABAJO\CICLO III 2021\PROGRAMACION_1\ParcialNumero1\obj\Debug\ParcialNumero1.csproj.CopyComplete
+C:\Users\recin\Desktop\CARPETAS DE TRABAJO\CICLO III 2021\PROGRAMACION_1\ParcialNumero1\obj\Debug\ParcialNumero1.exe
+C:\Users\recin\Desktop\CARPETAS DE TRABAJO\CICLO III 2021\PROGRAMACION_1\ParcialNumero1\obj\Debug\ParcialNumero1.pdb
